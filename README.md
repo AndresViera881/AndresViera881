@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**AndresViera881/AndresViera881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola 👋, *Mi nombre es Andres Viera*!
+#### *I'm FullStack Developer*
+*My profile is oriented to software development, I have worked on
+several projects which has helped me to have experience in the global
+market.*
 
-Here are some ideas to get you started:
+Habilidades: *HTML / CSS / JS / REACT / C# / JAVA / ANGULAR / .NET / FLUTTER / REACT NATIVE*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en *Freelance* 
+- 🌱 Estoy aprendiendo *Ingles* 
+- 👯 Quiero colaborar con *proyectos que me permitan seguir mejorando mis habilidades como dev* 
+- 💬 Pregúntame acerca de *de las necesidades que tengas para automatizar un proceso de negocio* 
+- 😄 Pronombres: *Andy - Andres - Pableins* 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/*AndresViera881*)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/andresviera//)  
+
+
