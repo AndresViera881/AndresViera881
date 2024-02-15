@@ -6,7 +6,7 @@
 several projects which has helped me to have experience in the global
 market.*
 
-Habilidades: *HTML / CSS / JS / REACT / C# / JAVA / ANGULAR / .NET / FLUTTER / REACT NATIVE*
+Habilidades: *HTML / CSS / JS / REACT / C# / JAVA / ANGULAR / .NET / BLAZOR / PYTHON*
 
 - 🔭 Estoy trabajando en *Freelance* 
 - 🌱 Estoy aprendiendo *Ingles* 
